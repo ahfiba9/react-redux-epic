@@ -1,0 +1,15 @@
+.search-container {
+    width: 350px;
+    height: 40px;
+}
+.suggestion-container {
+    width: 350px;
+    height: 40px;
+}
+.suggestion {
+    background-color: white;
+    color: black;
+    text-align: left;
+    font-weight: 500;
+}
+

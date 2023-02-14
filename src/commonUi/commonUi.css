@@ -1,0 +1,10 @@
+.suggestion-list {
+    padding-top: 15px;
+    display: flex;
+}
+.suggestion-list:hover {
+    color: darkgrey;
+}
+.row {
+    padding: 5px;
+}
